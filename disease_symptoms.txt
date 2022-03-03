@@ -1,0 +1,1 @@
+{"Salicylic Acid": "jerawat_,kulitminyak", "Snail Truecica": "bopeng,awal", "Niacinamide":"kusam,kulitkering", "Hyaluronic":"muda,awal", "Marine Collagen":"muda,keriput", "Vit C & E":"bekasj,kusam", "Retinol": "muda,kusam", "Honey (propolis)": "bekasj,awal", "tea (tea tree oil / matcha)": "jerawat_,kusam" }
